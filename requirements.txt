@@ -1,0 +1,5 @@
+ultralytics>=8.2.0
+opencv-python
+mediapipe
+numpy
+yt-dlp

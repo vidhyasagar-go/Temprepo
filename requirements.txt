@@ -1,0 +1,6 @@
+opencv-python
+ultralytics
+mediapipe
+numpy
+yt-dlp
+pytube
